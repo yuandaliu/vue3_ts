@@ -1,6 +1,5 @@
 <template>
   <div class="about">
-    <img alt="Vue logo" src="../assets/logo.png">
     <Demo msg="This is demo page!"/>
   </div>
 </template>
@@ -15,8 +14,6 @@ import Demo from '@/components/Demo.vue'
   }
 })
 export default class Home extends Vue {
-  // const state: any ={
-  //   data: 0
-  // }
+
 }
 </script>
